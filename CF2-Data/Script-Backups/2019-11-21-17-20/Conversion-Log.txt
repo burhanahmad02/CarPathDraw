@@ -1,0 +1,14 @@
+Converting script [1 / 1]	[\Police car\Scripts\VehicleSimpleControl.cs]
+	Fragments : 5
+		[ 0] : Line:   77	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:  244	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:  253	InputMethod   GetAxis             	("Horizontal")
+		[ 3] : Line:  298	InputMethod   GetAxis             	("Vertical")
+		[ 4] : Line:  307	InputMethod   GetAxis             	("Vertical")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [G:/HillClibmControl/CF2-Data/Script-Backups/2019-11-21-17-20\Assets-After/\Police car\Scripts\VehicleSimpleControl.cs] to [G:/HillClibmControl/Assets/\Police car\Scripts\VehicleSimpleControl.cs]
+
+Overwriting COMPLETED!

@@ -1,0 +1,1 @@
+Example Scene demonstrating snapping and focus based animation. Snapping settings can be found and changed on the Scroll View GameObject. The animation in this instance changes the size of the Scroll View element when it comes into focus. Try changing the size or interpolation of the animation on the individual elements.

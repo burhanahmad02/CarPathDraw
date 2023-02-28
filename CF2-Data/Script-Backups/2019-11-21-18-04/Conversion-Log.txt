@@ -1,0 +1,26 @@
+Converting script [1 / 3]	[\2DPhysicsDraw\Scripts\DestroyPath.cs]
+	Fragments : 1
+		[ 0] : Line:   31	InputMethod   GetMouseButtonUp    	(0)
+
+Converting script [2 / 3]	[\2DPhysicsDraw\Scripts\DrawingManager.cs]
+	Fragments : 6
+		[ 0] : Line:  124	InputProperty mousePosition       
+		[ 1] : Line:  135	InputProperty mousePosition       
+		[ 2] : Line:  138	InputMethod   GetMouseButtonDown  	(0)
+		[ 3] : Line:  151	InputProperty mousePosition       
+		[ 4] : Line:  162	InputMethod   GetMouseButton      	(0)
+		[ 5] : Line:  174	InputMethod   GetMouseButtonUp    	(0)
+
+Converting script [3 / 3]	[\2DPhysicsDraw\Scripts\MovingCameraScripts\PlayerMovement.cs]
+	Fragments : 2
+		[ 0] : Line:   25	InputMethod   GetKey              	(KeyCode.A)
+		[ 1] : Line:   27	InputMethod   GetKey              	(KeyCode.D)
+
+
+3 scripts modified!
+Overwriting actual scripts...
+	[0 / 3] from  [G:/HillClibmControl/CF2-Data/Script-Backups/2019-11-21-18-04\Assets-After/\2DPhysicsDraw\Scripts\DestroyPath.cs] to [G:/HillClibmControl/Assets/\2DPhysicsDraw\Scripts\DestroyPath.cs]
+	[1 / 3] from  [G:/HillClibmControl/CF2-Data/Script-Backups/2019-11-21-18-04\Assets-After/\2DPhysicsDraw\Scripts\DrawingManager.cs] to [G:/HillClibmControl/Assets/\2DPhysicsDraw\Scripts\DrawingManager.cs]
+	[2 / 3] from  [G:/HillClibmControl/CF2-Data/Script-Backups/2019-11-21-18-04\Assets-After/\2DPhysicsDraw\Scripts\MovingCameraScripts\PlayerMovement.cs] to [G:/HillClibmControl/Assets/\2DPhysicsDraw\Scripts\MovingCameraScripts\PlayerMovement.cs]
+
+Overwriting COMPLETED!

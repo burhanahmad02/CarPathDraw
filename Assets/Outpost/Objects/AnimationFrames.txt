@@ -1,0 +1,72 @@
+Aurochs
+
+01-59 idle
+60-91 attack
+
+Bat
+0-13 fly
+15_63 Idle
+
+BEAR
+0-60 idle
+60-95 attack
+
+BULL
+1-100 idle
+100-145 attack
+
+COW
+0-60 idlle
+60-100 attack
+
+Deer
+0-22 run
+
+
+Dragon
+0-1  Bind_Pose          
+2-23  Fly
+24_59 landing
+59-198  Idle 
+200-258  Fight_idle
+259-314  Atacck
+314-359  Tail Atacck
+359-390  Death
+
+EAGLE
+flying   0-80
+fly      81-100
+attack   101-120
+
+FOX
+1-300 idle
+300-330 attack
+330-360 Hit
+
+HORSE
+0-40 idle 01
+41-56 run01
+57-72 run02
+73-98 run03
+101-157 idle
+
+PIG
+0-101 idle
+102-130 attack
+
+ROOSTER
+0-1000 walk
+
+SPIDER
+0-16 walk
+
+STORK
+1-60 idle
+60-124 attack
+125-190 idlle1
+
+WOLF
+0-16 run
+16-40 death
+
+

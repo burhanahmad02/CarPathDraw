@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: f83e2337188ea8e44b3d98296be79e58
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camel_1humpM2015_Head_JawSHJnt
+    100002: Camel_1humpM2015_Head_TopSHJnt
+    100004: Camel_1humpM2015_l_Clavicle_01_01SHJnt
+    100006: Camel_1humpM2015_l_FrontLeg_AnkleSHJnt
+    100008: Camel_1humpM2015_l_FrontLeg_BallSHJnt
+    100010: Camel_1humpM2015_l_FrontLeg_HipSHJnt
+    100012: Camel_1humpM2015_l_FrontLeg_KneeSHJnt
+    100014: Camel_1humpM2015_l_HindLeg_AnkleSHJnt
+    100016: Camel_1humpM2015_l_HindLeg_BallSHJnt
+    100018: Camel_1humpM2015_l_HindLeg_HipSHJnt
+    100020: Camel_1humpM2015_l_HindLeg_Knee1SHJnt
+    100022: Camel_1humpM2015_l_HindLeg_Knee2SHJnt
+    100024: Camel_1humpM2015_Neck_01SHJnt
+    100026: Camel_1humpM2015_Neck_02SHJnt
+    100028: Camel_1humpM2015_Neck_TopSHJnt
+    100030: Camel_1humpM2015_r_Clavicle_01_01SHJnt
+    100032: Camel_1humpM2015_r_FrontLeg_AnkleSHJnt
+    100034: Camel_1humpM2015_r_FrontLeg_BallSHJnt
+    100036: Camel_1humpM2015_r_FrontLeg_HipSHJnt
+    100038: Camel_1humpM2015_r_FrontLeg_KneeSHJnt
+    100040: Camel_1humpM2015_r_HindLeg_AnkleSHJnt
+    100042: Camel_1humpM2015_r_HindLeg_BallSHJnt
+    100044: Camel_1humpM2015_r_HindLeg_HipSHJnt
+    100046: Camel_1humpM2015_r_HindLeg_Knee1SHJnt
+    100048: Camel_1humpM2015_r_HindLeg_Knee2SHJnt
+    100050: Camel_1humpM2015_ROOTSHJnt
+    100052: Camel_1humpM2015_Spine_01SHJnt
+    100054: Camel_1humpM2015_Spine_02SHJnt
+    100056: Camel_1humpM2015_Spine_03SHJnt
+    100058: Camel_1humpM2015_Spine_04SHJnt
+    100060: Camel_1humpM2015_Spine_TopSHJnt
+    100062: Camel_1humpM2015_Tail_01_01SHJnt
+    100064: Camel_1humpM2015_Tail_01_02SHJnt
+    100066: Camel_1humpM2015_Tail_01_03SHJnt
+    100068: Camel_1humpM2015_Tail_01_04SHJnt
+    100070: Camel_Dromader_HP
+    100072: //RootNode
+    100074: Camel_Dromader_LP
+    100076: Camel_Dromader_SLP
+    400000: Camel_1humpM2015_Head_JawSHJnt
+    400002: Camel_1humpM2015_Head_TopSHJnt
+    400004: Camel_1humpM2015_l_Clavicle_01_01SHJnt
+    400006: Camel_1humpM2015_l_FrontLeg_AnkleSHJnt
+    400008: Camel_1humpM2015_l_FrontLeg_BallSHJnt
+    400010: Camel_1humpM2015_l_FrontLeg_HipSHJnt
+    400012: Camel_1humpM2015_l_FrontLeg_KneeSHJnt
+    400014: Camel_1humpM2015_l_HindLeg_AnkleSHJnt
+    400016: Camel_1humpM2015_l_HindLeg_BallSHJnt
+    400018: Camel_1humpM2015_l_HindLeg_HipSHJnt
+    400020: Camel_1humpM2015_l_HindLeg_Knee1SHJnt
+    400022: Camel_1humpM2015_l_HindLeg_Knee2SHJnt
+    400024: Camel_1humpM2015_Neck_01SHJnt
+    400026: Camel_1humpM2015_Neck_02SHJnt
+    400028: Camel_1humpM2015_Neck_TopSHJnt
+    400030: Camel_1humpM2015_r_Clavicle_01_01SHJnt
+    400032: Camel_1humpM2015_r_FrontLeg_AnkleSHJnt
+    400034: Camel_1humpM2015_r_FrontLeg_BallSHJnt
+    400036: Camel_1humpM2015_r_FrontLeg_HipSHJnt
+    400038: Camel_1humpM2015_r_FrontLeg_KneeSHJnt
+    400040: Camel_1humpM2015_r_HindLeg_AnkleSHJnt
+    400042: Camel_1humpM2015_r_HindLeg_BallSHJnt
+    400044: Camel_1humpM2015_r_HindLeg_HipSHJnt
+    400046: Camel_1humpM2015_r_HindLeg_Knee1SHJnt
+    400048: Camel_1humpM2015_r_HindLeg_Knee2SHJnt
+    400050: Camel_1humpM2015_ROOTSHJnt
+    400052: Camel_1humpM2015_Spine_01SHJnt
+    400054: Camel_1humpM2015_Spine_02SHJnt
+    400056: Camel_1humpM2015_Spine_03SHJnt
+    400058: Camel_1humpM2015_Spine_04SHJnt
+    400060: Camel_1humpM2015_Spine_TopSHJnt
+    400062: Camel_1humpM2015_Tail_01_01SHJnt
+    400064: Camel_1humpM2015_Tail_01_02SHJnt
+    400066: Camel_1humpM2015_Tail_01_03SHJnt
+    400068: Camel_1humpM2015_Tail_01_04SHJnt
+    400070: Camel_Dromader_HP
+    400072: //RootNode
+    400074: Camel_Dromader_LP
+    400076: Camel_Dromader_SLP
+    4300000: Camel_Dromader_HP
+    4300002: Camel_Dromader_SLP
+    4300004: Camel_Dromader_LP
+    7400000: Take 001
+    7400002: Bind Pose
+    7400004: Walk
+    7400006: Run
+    7400008: Idle
+    7400010: Lie Down
+    7400012: Rest Lying
+    7400014: Stund Up
+    7400016: Start Eating
+    7400018: Eating
+    7400020: End Eating
+    7400022: Fight Idle
+    7400024: Hit Right
+    7400026: Hit Left
+    7400028: Hit Front
+    7400030: Hit Back
+    7400032: Attack Bite
+    7400034: Attack Head
+    7400036: Attack Leg
+    7400038: Death
+    7400040: Stand Up
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Camel_Dromader_HP
+    13700002: Camel_Dromader_LP
+    13700004: Camel_Dromader_SLP
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Eating
+      takeName: 
+      firstFrame: 610
+      lastFrame: 689
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Camel_1humpM2015_ROOTSHJnt
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

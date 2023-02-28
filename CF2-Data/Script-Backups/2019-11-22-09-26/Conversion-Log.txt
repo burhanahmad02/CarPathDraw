@@ -1,0 +1,20 @@
+Converting script [1 / 2]	[\2DPhysicsDraw\Scripts\DestroyPath.cs]
+	Fragments : 1
+		[ 0] : Line:   34	InputMethod   GetMouseButtonUp    	(0)
+
+Converting script [2 / 2]	[\2DPhysicsDraw\Scripts\DrawingManager.cs]
+	Fragments : 6
+		[ 0] : Line:  124	InputProperty mousePosition       
+		[ 1] : Line:  135	InputProperty mousePosition       
+		[ 2] : Line:  138	InputMethod   GetMouseButtonDown  	(0)
+		[ 3] : Line:  151	InputProperty mousePosition       
+		[ 4] : Line:  162	InputMethod   GetMouseButton      	(0)
+		[ 5] : Line:  174	InputMethod   GetMouseButtonUp    	(0)
+
+
+2 scripts modified!
+Overwriting actual scripts...
+	[0 / 2] from  [G:/HillClibmControl/CF2-Data/Script-Backups/2019-11-22-09-26\Assets-After/\2DPhysicsDraw\Scripts\DestroyPath.cs] to [G:/HillClibmControl/Assets/\2DPhysicsDraw\Scripts\DestroyPath.cs]
+	[1 / 2] from  [G:/HillClibmControl/CF2-Data/Script-Backups/2019-11-22-09-26\Assets-After/\2DPhysicsDraw\Scripts\DrawingManager.cs] to [G:/HillClibmControl/Assets/\2DPhysicsDraw\Scripts\DrawingManager.cs]
+
+Overwriting COMPLETED!

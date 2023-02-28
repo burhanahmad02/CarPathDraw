@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 807496c96dd155f4f9cfdf14e022a354
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: RABBIT
+  - first:
+      1: 100004
+    second: RABBIT_
+  - first:
+      1: 100006
+    second: RABBIT_ Head
+  - first:
+      1: 100008
+    second: RABBIT_ L Calf
+  - first:
+      1: 100010
+    second: RABBIT_ L Clavicle
+  - first:
+      1: 100012
+    second: RABBIT_ L Foot
+  - first:
+      1: 100014
+    second: RABBIT_ L Forearm
+  - first:
+      1: 100016
+    second: RABBIT_ L Hand
+  - first:
+      1: 100018
+    second: RABBIT_ L Thigh
+  - first:
+      1: 100020
+    second: RABBIT_ L Toe0
+  - first:
+      1: 100022
+    second: RABBIT_ L UpperArm
+  - first:
+      1: 100024
+    second: RABBIT_ Neck
+  - first:
+      1: 100026
+    second: RABBIT_ Neck1
+  - first:
+      1: 100028
+    second: RABBIT_ Pelvis
+  - first:
+      1: 100030
+    second: RABBIT_ Queue de cheval 1
+  - first:
+      1: 100032
+    second: RABBIT_ Queue de cheval 2
+  - first:
+      1: 100034
+    second: RABBIT_ R Calf
+  - first:
+      1: 100036
+    second: RABBIT_ R Clavicle
+  - first:
+      1: 100038
+    second: RABBIT_ R Foot
+  - first:
+      1: 100040
+    second: RABBIT_ R Forearm
+  - first:
+      1: 100042
+    second: RABBIT_ R Hand
+  - first:
+      1: 100044
+    second: RABBIT_ R Thigh
+  - first:
+      1: 100046
+    second: RABBIT_ R Toe0
+  - first:
+      1: 100048
+    second: RABBIT_ R UpperArm
+  - first:
+      1: 100050
+    second: RABBIT_ Spine
+  - first:
+      1: 100052
+    second: RABBIT_ Spine1
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: RABBIT
+  - first:
+      4: 400004
+    second: RABBIT_
+  - first:
+      4: 400006
+    second: RABBIT_ Head
+  - first:
+      4: 400008
+    second: RABBIT_ L Calf
+  - first:
+      4: 400010
+    second: RABBIT_ L Clavicle
+  - first:
+      4: 400012
+    second: RABBIT_ L Foot
+  - first:
+      4: 400014
+    second: RABBIT_ L Forearm
+  - first:
+      4: 400016
+    second: RABBIT_ L Hand
+  - first:
+      4: 400018
+    second: RABBIT_ L Thigh
+  - first:
+      4: 400020
+    second: RABBIT_ L Toe0
+  - first:
+      4: 400022
+    second: RABBIT_ L UpperArm
+  - first:
+      4: 400024
+    second: RABBIT_ Neck
+  - first:
+      4: 400026
+    second: RABBIT_ Neck1
+  - first:
+      4: 400028
+    second: RABBIT_ Pelvis
+  - first:
+      4: 400030
+    second: RABBIT_ Queue de cheval 1
+  - first:
+      4: 400032
+    second: RABBIT_ Queue de cheval 2
+  - first:
+      4: 400034
+    second: RABBIT_ R Calf
+  - first:
+      4: 400036
+    second: RABBIT_ R Clavicle
+  - first:
+      4: 400038
+    second: RABBIT_ R Foot
+  - first:
+      4: 400040
+    second: RABBIT_ R Forearm
+  - first:
+      4: 400042
+    second: RABBIT_ R Hand
+  - first:
+      4: 400044
+    second: RABBIT_ R Thigh
+  - first:
+      4: 400046
+    second: RABBIT_ R Toe0
+  - first:
+      4: 400048
+    second: RABBIT_ R UpperArm
+  - first:
+      4: 400050
+    second: RABBIT_ Spine
+  - first:
+      4: 400052
+    second: RABBIT_ Spine1
+  - first:
+      43: 4300000
+    second: RABBIT
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: RABBIT
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RABBIT
+    second: {fileID: 2100000, guid: 2db2c736af6e87842bd640c76ec0910b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - a4e327748338adb4f8afa7d42a032ab7
+  - ee4e7f7149f37ed4eb2df9b84f05a630
+  - f49de4914770a1941861a826047517cf
+  - 4449c97b9ad9ca948933f16afef3c8ea
+  - fcad32fbf3f776f4d8b0f212d0ca2e18
+  - 77c6586af9125354eb2948ba96d7705c
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
